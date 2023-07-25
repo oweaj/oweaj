@@ -8,7 +8,7 @@
 <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=oweaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jang Jaewoo github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=oweaj&show_icons=true&theme=buefy&hide_border=true" alt="oweaj github stats" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oweaj&layout=compact&theme=buefy&hide_border=true" />
